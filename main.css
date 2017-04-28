@@ -19,8 +19,8 @@ body {
 
 .clock {
   background: #ff9900;
-  width: 30%;
-  height: 30rem;
+  width: 40vw;
+  height: 40vw;
   border:12px solid white;
   border-radius:50%;
   margin:50px auto;
