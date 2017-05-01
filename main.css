@@ -33,7 +33,7 @@ body {
     0 0 10px rgba(0,0,0,0.2);
 }
 
-.center{
+.center {
   background-color: black;
   width: 10px;
   height: 10px;
@@ -54,7 +54,7 @@ body {
 
 .hand {
   width:50%;
-  height:6px;
+  height: 6px;
   background:black;
   position: absolute;
   top:50%;
@@ -66,34 +66,34 @@ body {
 
 }
 
-.hour-hand{
+.hour-hand {
   width: 35%;
 
 }
 
-.min-hand{
+.min-hand {
   width: 45%;
 }
 
-.number{
+.number {
   font-size: 3vw;
 }
 
-.three{
+.three {
   position: absolute;
-  top: 47%;
+  top: 46%;
   left: 95%;
 }
 
- .six{
+ .six {
   position: absolute;
   top: 96%;
   left: 50%;
 }
 
- .nine{
+ .nine {
   position: absolute;
-  top: 47%;
+  top: 46%;
   right: 95%;
 }
 
